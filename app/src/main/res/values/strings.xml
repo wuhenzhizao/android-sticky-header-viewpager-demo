@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">爱小窝</string>
+    <string name="home_menu_about">关于爱小窝</string>
+    <string name="voice_switch">语音录入</string>
+    <string name="voice_switch_content">识别内容</string>
+    <string name="voice_switch_menu_help">帮助</string>
+    <string name="voice_switch_menu_copy">复制</string>
+    <string name="voice_switch_menu_share">分享</string>
+    <string name="about_contace">联系开发者</string>
+    <string name="about_content">喜欢李易峰，只因你\n无言，可以有爱\n关心，从小做起\n愿用程序语言，诠释...</string>
+
+    <string name="voice_switch_help_content">识别内容可以手动编辑，以下是特定语音命令\n换行：请说出命令“下一行”，或“Enter”\n空格：请说出命令“空格”\n段落缩进：即空两格，请说出命令“缩进”\n</string>
+
+
+</resources>

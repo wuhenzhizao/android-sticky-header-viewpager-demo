@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="home_header_height">298dip</dimen>
+    <dimen name="home_header_min_height">250dip</dimen>
+    <dimen name="home_header_logo">75dip</dimen>
+
+    <dimen name="default_margin_between_lists">3dip</dimen>
+    <dimen name="item_height_small">150dp</dimen>
+    <dimen name="item_height_tall">220dp</dimen>
+    <dimen name="listbuddies_gap">3dp</dimen>
+    <dimen name="listbuddies_divider_height">@dimen/listbuddies_gap</dimen>
+
+    <dimen name="fab_size_normal">56dip</dimen>
+    <dimen name="fab_size_mini">40dip</dimen>
+    <dimen name="fab_shadow_size">12dip</dimen>
+    <dimen name="fab_scroll_threshold">4dip</dimen>
+    <dimen name="fab_elevation_lollipop">8dip</dimen>
+
+    <dimen name="spacing_xsmall">2dip</dimen>
+    <dimen name="spacing_medium">8dip</dimen>
+    <dimen name="spacing_large">16dip</dimen>
+    <dimen name="spacing_xlarge">32dip</dimen>
+    <dimen name="elevation_low">9dip</dimen>
+    <dimen name="elevation_high">12dip</dimen>
+</resources>

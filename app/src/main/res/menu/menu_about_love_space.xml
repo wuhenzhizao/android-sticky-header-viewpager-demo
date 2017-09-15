@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="flier.love.ui.activity.AboutLoveSpaceActivity">
+    <item
+        android:id="@+id/abount_contact"
+        android:orderInCategory="100"
+        android:title="@string/about_contace"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.activity.VoiceTextSwitchActivity">
+
+
+    <item
+        android:id="@+id/voice_switch_copy"
+        android:title="@string/voice_switch_menu_copy"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/voice_switch_share"
+        android:orderInCategory="101"
+        android:title="@string/voice_switch_menu_share"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/voice_switch_help"
+        android:orderInCategory="102"
+        android:title="@string/voice_switch_menu_help"
+        app:showAsAction="never" />
+</menu>

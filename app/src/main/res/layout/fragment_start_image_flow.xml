@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget.parallaxHeaderViewPager.NotifyingScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".ui.fragment.StarImageFlowFragment">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:listbuddies="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/start_image_flow_bg" />
+
+        <widget.listbuddies.lib.views.ListBuddiesLayout xmlns:listbuddies="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/start_image_flow_listbuddies"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            listbuddies:autoScrollFaster="right"
+            listbuddies:gap="@dimen/listbuddies_gap"
+            listbuddies:gapColor="@color/frame"
+            listbuddies:listsDivider="@drawable/start_image_flow_divider"
+            listbuddies:listsDividerHeight="@dimen/listbuddies_divider_height"
+            listbuddies:scrollFaster="left"
+            listbuddies:speed="2" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/listbuddies_divider_height"
+            android:background="@color/frame" />
+
+        <widget.listbuddies.lib.DrawInsetsFrameLayout
+            android:id="@+id/insets_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            listbuddies:insetBackground="@color/inset" />
+    </FrameLayout>
+</widget.parallaxHeaderViewPager.NotifyingScrollView>

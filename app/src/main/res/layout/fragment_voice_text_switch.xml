@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget.parallaxHeaderViewPager.NotifyingScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".ui.fragment.VoiceTextSwitchFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="308dip"
+            android:paddingTop="20dip"
+            android:paddingBottom="20dip"
+            android:textSize="17sp"
+            android:lineSpacingExtra="8dip"
+            android:gravity="center_horizontal"
+            android:text="记得我爱你\n作词：郑中庸\n作曲：David Kong\n演唱：李易峰\n留不下来的叫残念\n我用一段旅程来逆向思考我的伤悲\n末班车要开往终点\n想说的话太多\n却只能说再见\n流不回去的是眼泪\n可惜了这个让人触景伤情幽静的美\n爱没有所谓的抱歉\n所有幸福的可能我都想成全\n记忆的窗景，时间停在哪里\n忘了那些憧憬，记得我爱你\n遥远的回忆那么近\n争吵的情绪太安静\n你还是我最舍不得的曾经\n流不回去的是眼泪\n可惜了这个让人触景伤情幽静的美\n爱没有所谓的抱歉\n所有幸福的可能我都想成全\n记忆的窗景，时间停在哪里\n忘了那些憧憬，记得我爱你\n遥远的回忆那么近\n争吵的情绪太安静\n你还是我最舍不得的曾经\n记忆的窗景，时间停在哪里\n忘了那些憧憬，记得我爱你\n遥远的回忆那么近\n争吵的情绪太安静\n你还是我最舍不得的曾经\n伤心是一封寄给青春的信"/>
+    </RelativeLayout>
+</widget.parallaxHeaderViewPager.NotifyingScrollView>

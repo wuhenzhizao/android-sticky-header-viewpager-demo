@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_tab_pressed">#6633B5E5</color>
+
+    <color name="pink_transparent">#aa700d39</color>
+    <color name="green_transparent">#aa375a1f</color>
+    <color name="blue_transparent">#aa293576</color>
+    <color name="red_transparent">#aa7f3907</color>
+    <color name="purple_transparent">#aa432677</color>
+    <color name="holo_red_light_transparent">#aaff4444</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="blue">#7733B5E5</color>
+    <color name="black">#000000</color>
+    <color name="frame">@android:color/black</color>
+    <color name="inset">#9000</color>
+
+    <color name="material_blue_500">#5677fc</color>
+    <color name="material_blue_600">#4e6cef</color>
+    <color name="primary">#3f51b5</color>
+    <color name="primary_dark">#0097A7</color>
+    <color name="primary_pressed">#303f9f</color>
+    <color name="ripple">#ff80ab</color>
+    <color name="accent">#ff4081</color>
+    <color name="accent_pressed">#f50057</color>
+    <color name="accent_bright">#FFF493</color>
+</resources>
