@@ -2,7 +2,7 @@
 
 一个展示Parallax动差效果的demo
 
-**[Demo Download](https://www.pgyer.com/fYQ6)**
+**[Demo下载](https://www.pgyer.com/fYQ6)**
 
 <figure class="half">
     <a href="gif/20170915_150927.gif"><img src="gif/20170915_150927.gif" width = "300"></a>
