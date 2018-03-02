@@ -1,6 +1,6 @@
-# Parallax-Header-ViewPager
+# Android-Sticky-Header-ViewPager
 
-三四年前写的一个展示Parallax动差效果的demo，elipse工程的，已经不能编译了，觉得还不错，用AS跑起来，上传了。
+三四年前写的一个展示Sticky Header ViewPager效果的demo，elipse工程的，已经不能编译了，觉得还不错，用AS跑起来，上传了。
 
 **[Demo下载](https://www.pgyer.com/fYQ6)**
 
