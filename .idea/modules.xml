@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-parallax-header-viewpager.iml" filepath="$PROJECT_DIR$/android-parallax-header-viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-sticky-header-viewpager-demo.iml" filepath="$PROJECT_DIR$/android-sticky-header-viewpager-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
